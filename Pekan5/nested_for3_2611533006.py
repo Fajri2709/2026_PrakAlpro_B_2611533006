@@ -8,3 +8,4 @@ for i_3006 in range(batas_3006+1):
     for j_3006 in range(batas_3006+1):
         print(i_3006+j_3006, end="")
     print() # pindah ke baris selanjutnya
+    
