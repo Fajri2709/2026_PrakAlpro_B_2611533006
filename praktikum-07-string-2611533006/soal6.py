@@ -12,4 +12,4 @@ else:
     first_name = clean_name.lower()
 last_three = nim[-3:]
 username = first_name + last_three
-print(username) 
+print(username)
